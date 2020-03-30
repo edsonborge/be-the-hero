@@ -1,5 +1,5 @@
 # Be The Hero
-Projeto desenvolvido na semana OmniStack da [Rocketseat](https://rocketseat.com.br/) entre os dias 23/03/2020 e 27/03/2020.
+Projeto desenvolvido na semana OmniStack 11.0 da [Rocketseat](https://rocketseat.com.br/) entre os dias 23/03/2020 e 27/03/2020.
 
 ![logon](https://user-images.githubusercontent.com/17258402/77952408-fbeaed80-72a1-11ea-8446-7183897ffd48.png)
 
