@@ -24,7 +24,7 @@ expo
 * [LinkedIn](https://www.linkedin.com/in/edsonborge/)
 * Discord: edsonborge#9581
 
-## Agradeceimentos
+## Agradecimentos
 
 * Diego Fernandes
 * [Rocketseat](https://github.com/Rocketseat)
